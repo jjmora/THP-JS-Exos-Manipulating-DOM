@@ -1,7 +1,9 @@
-Projet : Exerce tes talents de manipulateur DOM
+Interactive WebPage with JavaScript - Manipulating DOM
 
-Open the index files 
-Open the console in the browser
+Web created as part of The Hacking Project learning program
+
+- Open the index files 
+- Open the console in the browser
 
 * exo_parcours_DOM.html
 
